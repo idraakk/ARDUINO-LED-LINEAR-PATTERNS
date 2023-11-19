@@ -13,7 +13,7 @@ void setup() {
 }
 void loop() 
 {
-  //PATTERM 1 RUNNING LIGHTS END TO END
+  //PATTERN 1 RUNNING LIGHTS END TO END
   //LIGHT ON
   for(int i=12;i>=3;i--)
   {

@@ -14,4 +14,4 @@ Whether you're working on a DIY project or creating a visual centerpiece, these 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/arduino-led-linear-patterns.git
+   git clone https://github.com/idraakk/Arduino-LED-Linear-Patterns.git

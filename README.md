@@ -7,7 +7,7 @@ Welcome to the Arduino LED Linear Patterns repository! 🚀
 
 ## Overview:
 
-This repository contains Arduino sketches that generate captivating linear LED patterns. 
+This repository contains Arduino sketches that generate linear LED patterns. 
 Whether you're working on a DIY project or creating a visual centerpiece, these patterns will add a vibrant touch.
 
 ## Getting Started:
